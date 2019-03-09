@@ -35,7 +35,7 @@ img:hover{
 	display: flex;
 	height: calc(100vh/3);
 	width: 25vw;
-	background:  url('images/bohem.png');
+	background-image:  url('images/bohem.png');
 }
 .brown{
 	display: flex;
