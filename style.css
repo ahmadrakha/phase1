@@ -35,13 +35,13 @@ img:hover{
 	display: flex;
 	height: calc(100vh/3);
 	width: 25vw;
-	background:  url('images/bohem.png');
+	background:  url('images/bohem.PNG');
 }
 .brown{
 	display: flex;
 	height: 100%;
 	width: calc(25vw/2);
-	background:  url('images/purple4.png');
+	background:  url('images/purple4.PNG');
 }
 .purple{
 	display: flex;
