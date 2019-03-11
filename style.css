@@ -54,7 +54,7 @@ img:hover{
 	height: calc(100vh/5);
 	width: calc(100vw/17);
 	background-color:  #3355FF;
-	background:  url('images/green.png');
+	background:  url('images/green.PNG');
 }
 .a{
 	display: flex;
